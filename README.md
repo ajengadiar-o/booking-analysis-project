@@ -15,6 +15,7 @@ Not all users complete the booking process in online travel platforms. Many drop
 
 ## Dataset
 Hotel Booking Dataset
+From : https://www.kaggle.com/datasets/qucwang/hotel-bookings-analysis-dataset 
 
 ## Analysis
 ### 1. Cancellation Rate
